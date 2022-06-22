@@ -47,13 +47,15 @@ ul{
     font-size: 18px;
     color: #E5E7EB;
 }
-button{
-    border-radius: 15px;
-    background-color:#3882F6;
-    color:#F9FAF8;
+.one button {
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: #F9FAF8;
     text-align: center;
-    width: 70px;
-    margin-bottom: 10px;
+    width: 110px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: none;
 }
 .one h1{
     display:flex;
@@ -138,10 +140,15 @@ button{
     
 }
 .container button{
+    background-color: #3882F6;
+    color: #F9FAF8;
     margin-left:150px;
-    margin-top: 20px;
+    margin-top: 30px;
     width:100px;
     height:50px;
+    width: 110px;
+    height: 30px;
+    border-radius: 8px;
 }
 
 .container .text{
