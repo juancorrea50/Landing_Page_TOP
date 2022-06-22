@@ -6,8 +6,9 @@ body{
 
 .header{
     display: flex;
-    padding-left:75px;
-    padding-right:75px;
+    justify-content: center;
+    padding-left:300px;
+    padding-right:100px;
     background-color: #1F2937;
     color:white;
 }
@@ -29,4 +30,41 @@ ul{
     margin-left: auto;
     flex-direction: row;
     list-style: none;
+}
+.one{
+    display:flex;
+    gap: 200px;
+    justify-content: center;
+    background-color: #1F2937;
+}
+.left{
+    display:flex;
+    width:400px;
+    flex-direction: column;
+}
+.left p{
+    display:flex;
+    margin-top:-10px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button{
+    border-radius: 15px;
+    background-color:#3882F6;
+    color:#F9FAF8;
+    text-align: center;
+    width: 70px;
+    margin-bottom: 10px;
+}
+.one h1{
+    display:flex;
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+.one img{
+    display: flex;
+    width:500px;
+    height:250px;
+
 }

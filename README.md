@@ -1,5 +1,8 @@
 # Landing_Page_TOP
 The Odin Project Landing Page assignment
+Credits: João Gustavo Rezende(content 1 image), 
+
+
 Reference for page: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png
 Color rubric: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png
 
