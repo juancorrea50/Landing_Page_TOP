@@ -3,7 +3,7 @@ body{
     display:flex;
     flex-direction: column;
 }
-
+/*Header Styling*/
 .header{
     display: flex;
     justify-content: center;
@@ -31,6 +31,8 @@ ul{
     flex-direction: row;
     list-style: none;
 }
+
+/*Content One Styling*/
 .one{
     display:flex;
     gap: 200px;
@@ -67,4 +69,33 @@ button{
     width:500px;
     height:250px;
 
+}
+
+/*Content Two Styling*/
+.two{
+    display:flex;
+    flex-direction: column;
+    height: 400px;
+}
+.two h1{
+    display:flex;
+    justify-content: center;
+}
+.im-container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.two img{
+    justify-content: center;
+    width:150px;
+    height:150px;
+}
+.text-container{
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+}
+.text-container p{
+    width:150px;
 }

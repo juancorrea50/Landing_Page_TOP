@@ -1,6 +1,7 @@
 # Landing_Page_TOP
 The Odin Project Landing Page assignment
-Credits: João Gustavo Rezende(content 1 image), 
+Credits: João Gustavo Rezende(content 1 image), Vincent Gerbouin(content 2 image 1),alleksana(content 2 image 2), Anastasia Ilina-Makarova(content 2 image 3),
+
 
 
 Reference for page: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png
